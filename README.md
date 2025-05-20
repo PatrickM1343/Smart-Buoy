@@ -1,5 +1,5 @@
 # Smart-Buoy
-# english
+# English
 Smart Buoy is an educational and environmental project initiated by two students who are passionate about technology and the environment. Our goal is to develop smart buoys that can monitor water quality in real time and transform this data into easy-to-understand information for the general public.
 
 These buoys use modern sensors to collect data on temperature, pollution levels and other essential factors. The information is transmitted wirelessly to a user-friendly web platform.
