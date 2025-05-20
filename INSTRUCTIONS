@@ -1,2 +1,4 @@
 Print the enclosure and put the components inside.
 Upload the latest release to the arduino and update arduino_secrets.h
+Connect the board with Arduino Cloud and make a Thing using the Variables in the code 
+FINAL STEP : Contact us at "contact@smartbuoy.ro" so we can add your smartbuoy to our website if you want to .
