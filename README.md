@@ -1,5 +1,6 @@
 # Smart-Buoy
 ![Smart-Buoy-title-2](https://github.com/user-attachments/assets/8d59640d-7cee-438e-9286-f27e6ed8760d)
+https://smartbuoy.ro
 # English
 Smart Buoy is an educational and environmental project initiated by two students who are passionate about technology and the environment. Our goal is to develop smart buoys that can monitor water quality in real time and transform this data into easy-to-understand information for the general public.
 
@@ -12,8 +13,7 @@ Smart Buoy este un proiect educațional și de mediu inițiat de doi studenți p
 Aceste geamanduri folosesc senzori moderni pentru a colecta date despre temperatură, nivelurile de poluare și alți factori esențiali. Informațiile sunt transmise wireless către o platformă web ușor de utilizat.
 
 Credem că prin intermediul tehnologiei accesibile putem proteja ecosistemele acvatice și putem educa comunitatea despre importanța unui mediu curat.
-# --------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Follow instructions .
-
+# Follow instructions file .
+https://smartbuoy.ro
 ![Smart-Buoy-title-2](https://github.com/user-attachments/assets/8d59640d-7cee-438e-9286-f27e6ed8760d)
