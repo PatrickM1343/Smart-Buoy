@@ -14,4 +14,4 @@ Aceste geamanduri folosesc senzori moderni pentru a colecta date despre temperat
 Credem că prin intermediul tehnologiei accesibile putem proteja ecosistemele acvatice și putem educa comunitatea despre importanța unui mediu curat.
 
 # Follow instructions file .
-
+![image](https://github.com/user-attachments/assets/0166b725-1301-4f12-934c-9cbd79e3c0f8)
