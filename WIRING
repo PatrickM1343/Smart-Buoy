@@ -1,0 +1,33 @@
+This is the current wiring
+TDS Pin	Arduino Pin	Notes
+VCC	5V	Power
+GND	GND	Ground
+DATA	A0	Analog input for TDS readings
+DS18B20 Pin	Arduino Pin	Notes
+VDD (Red)	5V	Power
+GND (Black)	GND	Ground
+DATA (Yellow)	D2	Digital input with 10KΩ pull-up resistor to 5V
+DS18B20 Pin	Arduino Pin	Notes
+DHT Pin	Arduino Pin	Notes
+VCC	5V or 3.3V	Power (check sensor specs)
+GND	GND	Ground
+DATA	D3	Digital input
+GPS Pin	Arduino Pin	Notes
+VCC	5V	Power
+GND	GND	Ground
+TX	RX1 (D0)	GPS TX → Arduino RX1 (Serial1)
+RX	TX1 (D1)	GPS RX → Arduino TX1 (Serial1)
+diagram
++5V ────┬───────────┬───────────┬───────────┬───────────┐
+        │           │           │           │           │
+       TDS        DS18B20      DHT11       GPS          │
+       VCC         VDD         VCC        VCC           │
+        │           │           │           │          GND
+        │           │           │           │           │
+       GND         GND         GND        GND           │
+        │           │           │           │           │
+       A0 ──────── D2 ──────── D3 ──────── RX1 ───────-─┘
+                     │           │           │
+                  10KΩ         4.7KΩ        TX1
+                     │           │
+                   5V          5V
