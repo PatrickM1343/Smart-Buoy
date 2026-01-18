@@ -12,6 +12,8 @@ Smart Buoy este un proiect educațional și de mediu inițiat de doi studenți p
 Aceste geamanduri folosesc senzori moderni pentru a colecta date despre temperatură, nivelurile de poluare și alți factori esențiali. Informațiile sunt transmise wireless către o platformă web ușor de utilizat.
 
 Credem că prin intermediul tehnologiei accesibile putem proteja ecosistemele acvatice și putem educa comunitatea despre importanța unui mediu curat.
+### 🧊 3D Model – Smart Buoy SB02  
+🔗 **[View interactive 3D model](https://viewer.tinyglb.com/ba04a3ed3ea74525b6321069a592e777)**
 
 # Follow instructions file .
 ![image](https://github.com/user-attachments/assets/0166b725-1301-4f12-934c-9cbd79e3c0f8) ![image](https://github.com/user-attachments/assets/588eb33f-f6f2-4f91-934c-78a62ca3b0b0)
